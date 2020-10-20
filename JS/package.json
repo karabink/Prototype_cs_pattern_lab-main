@@ -1,0 +1,27 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Prototype_js_pattern_lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bit1creative/Prototype_cs_pattern_lab.git"
+  },
+  "author": "Karabin Kate and Hrucenko Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bit1creative/Prototype_cs_pattern_lab/issues"
+  },
+  "homepage": "https://github.com/bit1creative/Prototype_cs_pattern_lab#readme",
+  "dependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "nodemon": "^2.0.4"
+  }
+}
